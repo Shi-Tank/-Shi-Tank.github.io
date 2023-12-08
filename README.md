@@ -1,2 +1,2 @@
-# Shi-Tank.github.io
+# shi-tank.github.io
 personal blog
